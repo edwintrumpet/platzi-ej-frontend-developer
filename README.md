@@ -8,6 +8,8 @@
 - [Referencias del lenguaje](#referencias)
 - [Proceso de renderizado de la web](#proceso)
 - [Debugging](#debugging)
+- [PseudoClases y PseudoElementos](#pseudo)
+- [Utilidades](#utilidades)
 
 <a name="referencias" />
 
@@ -42,3 +44,16 @@ Proceso del renderizado
 ### Debugging
 
 La [W3C](https://www.w3.org/ "World Wide Web Consortium") que es la entidad encargada de definir los estándares del leguaje tiene una aplicación en la que podemos poner a prueba nuestro código para detectar errores <https://validator.w3.org/>
+
+<a name="pseudo" />
+
+### PseudoClases y PseudoElementos
+
+- **[PseudoClases](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes):** Se caracterizan por anteponer :
+- **[PseudoElementos](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements):** Se caracterizan por anteponer ::
+
+<a name="utilidades" />
+
+### Utilidades
+
+- [Emojis](https://coolsymbol.com/emojis/emoji-for-copy-and-paste.html "Emoji keyboard")
