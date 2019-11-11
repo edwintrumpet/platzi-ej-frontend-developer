@@ -10,7 +10,8 @@
 - [Debugging](#debugging)
 - [PseudoClases y PseudoElementos](#pseudoclases-y-pseudoelementos)
 - [Arquitecturas de CSS](#arquitecturas-de-css)
-- [Utilidades](#utilidades)
+- [Flexbox](#flexbox)
+- [Recursos](#recursos)
 - [Profundizar](#profundizar)
 
 ### Referencias del lenguaje
@@ -71,11 +72,21 @@ La [W3C](https://www.w3.org/ "World Wide Web Consortium") que es la entidad enca
     - Templates
     - Páginas
 
-### Utilidades
+### Flexbox
+
+Documentación
+
+- [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Juego Flexbox Froggy](https://flexboxfroggy.com/#es)
+- [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+
+### Recursos
 
 - [Emojis](https://coolsymbol.com/emojis/emoji-for-copy-and-paste.html "Emoji keyboard")
 - [Paletas de colores (Color Hunt)](https://colorhunt.co/ "Color hunt")
 - [Paletas de colores (Coolors)](https://coolors.co/001514-fbfffe-6b0504-a3320b-e6af2e "coolors")
+- [Fotografías](https://www.pexels.com/ "pexels")
 
 ### Profundizar
 
