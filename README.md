@@ -4,10 +4,19 @@
 
 ## Notas
 
+### Índice
+- [Referencias del lenguaje](#referencias)
+- [Proceso de renderizado de la web](#proceso)
+- [Debugging](#debugging)
+
+<a name="referencias" />
+
 ### Referencias del lenguaje
 
 - [HTML](https://htmlreference.io/ "html reference")
 - [CSS](https://cssreference.io/ "css reference")
+
+<a name="proceso" />
 
 ### Proceso de renderizado de la web
 
@@ -27,3 +36,9 @@ Proceso del renderizado
 3. Junta el DOM y el CSSOM para construir el Render Tree
 4. Ejecuta el diseño en el Render Tree
 5. Pinta el nodo en la pantalla
+
+<a name="debugging" />
+
+### Debugging
+
+La [W3C](https://www.w3.org/ "World Wide Web Consortium") que es la entidad encargada de definir los estándares del leguaje tiene una aplicación en la que podemos poner a prueba nuestro código para detectar errores <https://validator.w3.org/>
