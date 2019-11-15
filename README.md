@@ -14,6 +14,7 @@
 - [CSS Grid](#css-grid)
 - [Recursos](#recursos)
 - [Profundizar](#profundizar)
+- [Accesibilidad](#accesibilidad)
 
 ### Referencias del lenguaje
 
@@ -90,6 +91,18 @@ Documentación
 - [Jen Simmons](https://labs.jensimmons.com/)
 - [Jen Simmons - YouTube](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 - [Juego CSS Grid Garden](https://cssgridgarden.com/#es)
+
+### Accesibilidad
+
+Lectores de pantalla
+
+- NVDA
+- JAWS
+- Voice over (MAC)
+
+Herramientas
+
+- [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html)
 
 ### Recursos
 
